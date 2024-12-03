@@ -332,6 +332,7 @@ def save_results_to_csv(results, output_path):
             'ranking',
             'smart_store',
             'own_mall',
+            'zigzag_mall'
             'fashion_mall'
         ]
         
